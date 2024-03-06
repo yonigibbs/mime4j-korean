@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+Date: Wed, 6 Mar 2024 09:22:57 +0000 (GMT)
+Message-ID: <83a4514d-b68f-4b60-bfa4-806516c74cb1@foo.com>
+Subject: Email with Korean recipients
+From: Foo Bar <foo@bar.com>
+To: =?UTF-8?B?7Iuc7ZeY?= <koreantest@example.com>
+Content-Type: text/html"
+
+Test
