@@ -11,7 +11,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.apache.james:apache-mime4j:0.8.10")
+    implementation("org.apache.james:apache-mime4j:0.8.11")
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
     implementation(kotlin("stdlib-jdk8"))
